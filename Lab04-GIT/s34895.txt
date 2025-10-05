@@ -1,4 +1,3 @@
 "Name: {Agnieszka Bartos}"
 "Univertisty: PJATK"
 "Student id: {s34895}"
-"Hello from the branch"
